@@ -14,6 +14,8 @@ fn main() {
     
     println!("Guess the number!");
 
+    let mut number_of_guesses: u32 = 0;
+
     loop {
     
         println!("Please input your guess.");
@@ -31,6 +33,9 @@ fn main() {
             Err(_) => continue,
         };
 
+        // PLUS: tracking of number of guesses
+        number_of_guesses += 1;
+
         println!("The secret number is {}", secret_number);
      
         println!("You guessed: {}", guess);
@@ -40,6 +45,7 @@ fn main() {
             Ordering::Greater => println!("{}", "Too big".red()),
             Ordering::Equal => {
                 println!("{}", "You win".white());
+                println!("{}", format!("Number of guesses: {}", number_of_guesses).white());
                 break;
             },
         }
