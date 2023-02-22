@@ -33,7 +33,7 @@ fn main() {
             Err(_) => continue,
         };
 
-        // PLUS: tracking of number of guesses
+        // PLUS: tracking number of guesses
         number_of_guesses += 1;
 
         println!("The secret number is {}", secret_number);
