@@ -11,6 +11,7 @@ use rand::Rng;
 use colored::*;
 
 fn main() {
+    
     println!("Guess the number!");
 
     loop {
@@ -31,7 +32,6 @@ fn main() {
         };
 
         println!("The secret number is {}", secret_number);
-
      
         println!("You guessed: {}", guess);
 
