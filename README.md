@@ -10,4 +10,4 @@ This repo is intended to track the progress of [Let's Get Rusty](https://www.you
 
 - [X] [Getting Started](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=1)
 - [X] [Programming a Guessing Game in Rust!](https://www.youtube.com/watch?v=H0xBSbnQYds&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=2)
-- [ ] [Common Programming Concepts in Rust](https://www.youtube.com/watch?v=2V0JaMVjzws&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=3)store
+- [ ] [Common Programming Concepts in Rust](https://www.youtube.com/watch?v=2V0JaMVjzws&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=3)
