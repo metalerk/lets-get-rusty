@@ -4,7 +4,7 @@ This is an example of a game written in Rust.
 
 ### Video
 
-- [Guessing Game on YouTube](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=1)
+- [Guessing Game on YouTube](https://www.youtube.com/watch?v=H0xBSbnQYds&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=2)
 
 
 
