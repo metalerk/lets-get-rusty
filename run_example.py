@@ -2,7 +2,6 @@
 
 import os
 import subprocess
-import signal
 import sys
 
 VERSION = "1.0.0"
